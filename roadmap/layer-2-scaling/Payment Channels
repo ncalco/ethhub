@@ -1,0 +1,4 @@
+# Payment Channels
+
+### Description
+Payment Channels are off-chain networks that run parallel to the blockchain.  Users within the payment channels can send and receive payments without interacting with the blockchain. The off-chain network allows for fast, low cost transactions to occur outside of the blockchain with a security tradeoff. The payment network mainly interoperates with the blockchain at times of channel opening and closing.  
